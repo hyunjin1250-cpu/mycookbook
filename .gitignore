@@ -1,0 +1,5 @@
+.vscode/
+.venv/
+__pycash__/
+*.swp
+*~
