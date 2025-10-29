@@ -29,7 +29,7 @@ jobs:
       - name: Lint python files
         run: |
           # Install dependency
-          pip install flake8  black frontmatter
+          pip install flake8 black frontmatter
           # Run Flake8
           flake *.py
           # Run Black
